@@ -1,0 +1,6 @@
+Main.class
+services\UserService.class
+dao\UserDao.class
+model\Auto.class
+model\User.class
+utils\HibernateSessionFactoryUtil.class
